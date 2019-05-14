@@ -1,0 +1,14 @@
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_Mixed.deps.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_Mixed.runtimeconfig.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_Mixed.runtimeconfig.dev.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_Mixed.dll
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.csprojAssemblyReference.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.RazorAssemblyInfo.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.RazorAssemblyInfo.cs
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.AssemblyInfoInputs.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.AssemblyInfo.cs
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.RazorTargetAssemblyInfo.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_Mixed.pdb
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.dll
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_Mixed.pdb

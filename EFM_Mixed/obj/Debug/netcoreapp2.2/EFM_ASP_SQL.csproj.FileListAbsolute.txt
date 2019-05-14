@@ -1,0 +1,14 @@
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.csprojAssemblyReference.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.RazorAssemblyInfo.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.RazorAssemblyInfo.cs
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.AssemblyInfoInputs.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.AssemblyInfo.cs
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_ASP_SQL.deps.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_ASP_SQL.runtimeconfig.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_ASP_SQL.runtimeconfig.dev.json
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_ASP_SQL.dll
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\bin\Debug\netcoreapp2.2\EFM_ASP_SQL.pdb
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.RazorTargetAssemblyInfo.cache
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.dll
+D:\Programming\VisualStudioProjects\EFM_Mixed\EFM_Mixed\obj\Debug\netcoreapp2.2\EFM_ASP_SQL.pdb
